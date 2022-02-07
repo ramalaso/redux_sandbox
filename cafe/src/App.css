@@ -1,0 +1,9 @@
+.App {
+	width: 30%;
+	margin: 20px auto;
+}
+
+.order-row {
+	background: #eee;
+	border-bottom: 1px solid #ccc;
+}
